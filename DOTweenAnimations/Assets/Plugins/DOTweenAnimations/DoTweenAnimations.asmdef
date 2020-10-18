@@ -1,0 +1,16 @@
+{
+    "name": "DoTweenAnimations",
+    "references": [
+        "GUID:fa5dbde13cf8de04bab924c4cbb11f26",
+        "GUID:74ca10bb59406f647b0be55e9a016c46"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
